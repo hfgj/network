@@ -1,0 +1,2 @@
+# Windows 11 clash verg rev 1.6.4 bug，只有一行会按yaml格式解析，提示缺少payload
+DOMAIN-SUFFIX,v2ex.com

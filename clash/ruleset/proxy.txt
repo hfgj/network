@@ -1,0 +1,10 @@
+DOMAIN-SUFFIX,blobstore.apple.com
+DOMAIN-SUFFIX,shuttle.gt-in.com
+DOMAIN-SUFFIX,patreon.com
+DOMAIN-SUFFIX,socloud.me
+DOMAIN-SUFFIX,tracker.trackerfix.com
+DOMAIN-SUFFIX,unlock-music.dev
+DOMAIN-SUFFIX,qbittorrent.org
+DOMAIN-SUFFIX,ahcdn.com
+DOMAIN-SUFFIX,kjcpromo.com
+DOMAIN-SUFFIX,themoviedb.org
