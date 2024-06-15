@@ -1,8 +1,16 @@
+# Apple Music 个人上传音乐
 DOMAIN-SUFFIX,blobstore.apple.com
+
+# 机场
 DOMAIN-SUFFIX,shuttle.gt-in.com
 DOMAIN-SUFFIX,patreon.com
 DOMAIN-SUFFIX,socloud.me
+
+# tracker
 DOMAIN-SUFFIX,tracker.trackerfix.com
+
+# 其他
+DOMAIN-SUFFIX,stackoverflow.com
 DOMAIN-SUFFIX,unlock-music.dev
 DOMAIN-SUFFIX,qbittorrent.org
 DOMAIN-SUFFIX,ahcdn.com
