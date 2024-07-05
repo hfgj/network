@@ -1,3 +1,6 @@
 PROCESS-NAME,EnUES.exe
+PROCESS-NAME,wemeetapp.exe
+PROCESS-NAME,SunloginClient.exe
+PROCESS-NAME,sunlogin_guard.exe
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,m-team.io
