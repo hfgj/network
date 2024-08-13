@@ -8,6 +8,9 @@ DOMAIN-SUFFIX,imdb.to
 DOMAIN-SUFFIX,media-imdb.com
 DOMAIN-SUFFIX,api.imdbws.com
 
+# 教育
+DOMAIN-SUFFIX,mobiusinstitutetms.com
+
 # twitter
 HOST-SUFFIX,ads-twitter.com,Twitter
 HOST-SUFFIX,cms-twdigitalassets.com,Twitter
@@ -48,6 +51,7 @@ DOMAIN-SUFFIX,patreon.com
 DOMAIN-SUFFIX,socloud.me
 DOMAIN-SUFFIX,justmysocks.net
 DOMAIN-SUFFIX,vultr.com
+DOMAIN-SUFFIX,metacubex.one
 
 # tracker
 DOMAIN-SUFFIX,tracker.trackerfix.com
