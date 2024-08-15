@@ -8,9 +8,6 @@ DOMAIN-SUFFIX,imdb.to
 DOMAIN-SUFFIX,media-imdb.com
 DOMAIN-SUFFIX,api.imdbws.com
 
-# 教育
-DOMAIN-SUFFIX,mobiusinstitutetms.com
-
 # twitter
 HOST-SUFFIX,ads-twitter.com,Twitter
 HOST-SUFFIX,cms-twdigitalassets.com,Twitter
