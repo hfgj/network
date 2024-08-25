@@ -2,5 +2,15 @@ PROCESS-NAME,EnUES.exe
 PROCESS-NAME,wemeetapp.exe
 PROCESS-NAME,SunloginClient.exe
 PROCESS-NAME,sunlogin_guard.exe
+
+
+# tracker
+DOMAIN-SUFFIX,totheglory.im
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,m-team.io
+DOMAIN-SUFFIX,springsunday.net
+DOMAIN-SUFFIX,hdsky.me
+DOMAIN-SUFFIX,hddolby.com
+DOMAIN-SUFFIX,hdfans.com
+DOMAIN-SUFFIX,soulvoice.club
+DOMAIN-SUFFIX,blutopia.cc
