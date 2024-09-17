@@ -1,3 +1,9 @@
+# Apple Music
+DOMAIN,aod.itunes.apple.com
+DOMAIN,music.apple.cn
+DOMAIN,music.apple.com
+
+
 PROCESS-NAME,EnUES.exe
 PROCESS-NAME,wemeetapp.exe
 PROCESS-NAME,SunloginClient.exe
