@@ -4,10 +4,10 @@ DOMAIN-KEYWORD,blobstore-apple.com
 # DOMAIN,amazonaws.com
 
 # imdb
-DOMAIN-SUFFIX,imdb.com
-DOMAIN-SUFFIX,imdb.to
-DOMAIN-SUFFIX,media-imdb.com
-DOMAIN-SUFFIX,api.imdbws.com
+# DOMAIN-SUFFIX,imdb.com
+# DOMAIN-SUFFIX,imdb.to
+# DOMAIN-SUFFIX,media-imdb.com
+# DOMAIN-SUFFIX,api.imdbws.com
 
 # 机场
 DOMAIN-SUFFIX,shuttle.gt-in.com
