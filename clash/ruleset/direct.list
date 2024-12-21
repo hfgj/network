@@ -2,8 +2,10 @@
 DOMAIN,aod.itunes.apple.com
 DOMAIN,music.apple.cn
 DOMAIN,music.apple.com
+DOMAIN-SUFFIX,whysdrive.synology.me
+DOMAIN-SUFFIX,whycc.mycloudnas.com
 
-
+# Process
 PROCESS-NAME,EnUES.exe
 PROCESS-NAME,wemeetapp.exe
 PROCESS-NAME,SunloginClient.exe
