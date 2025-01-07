@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,whycc.mycloudnas.com
 # Crack
 DOMAIN-SUFFIX,repack.me
 DOMAIN-SUFFIX,rsload.net
+DOMAIN-SUFFIX,2rsload.ru
 
 # Process
 PROCESS-NAME,EnUES.exe
