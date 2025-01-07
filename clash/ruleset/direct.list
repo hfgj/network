@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,whycc.mycloudnas.com
 DOMAIN-SUFFIX,repack.me
 DOMAIN-SUFFIX,rsload.net
 DOMAIN-SUFFIX,2rsload.ru
+DOMAIN-SUFFIX,ir.cdn.ir
+DOMAIN-SUFFIX,downloadlynet.ir
 
 # Process
 PROCESS-NAME,EnUES.exe
