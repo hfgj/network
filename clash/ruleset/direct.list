@@ -7,8 +7,9 @@ DOMAIN-SUFFIX,link.nobodys.uk
 DOMAIN-SUFFIX,whysdrive.synology.me
 DOMAIN-SUFFIX,whycc.mycloudnas.com
 
-# 
+# Crack
 DOMAIN-SUFFIX,repack.me
+DOMAIN-SUFFIX,rsload.net
 
 # Process
 PROCESS-NAME,EnUES.exe
