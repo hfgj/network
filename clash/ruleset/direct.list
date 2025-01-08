@@ -2,10 +2,13 @@
 DOMAIN,aod.itunes.apple.com
 DOMAIN,music.apple.cn
 DOMAIN,music.apple.com
+
+# 
 DOMAIN-SUFFIX,warehouse.parkson-market.org
 DOMAIN-SUFFIX,link.nobodys.uk
 DOMAIN-SUFFIX,whysdrive.synology.me
 DOMAIN-SUFFIX,whycc.mycloudnas.com
+DOMAIN-SUFFIX,ipsw.me
 
 # Crack
 DOMAIN-SUFFIX,repack.me
