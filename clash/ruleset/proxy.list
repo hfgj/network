@@ -3,9 +3,9 @@ DOMAIN-SUFFIX,ultramobile.com
 IP-CIDR,208.54.0.0/16,no-resolve
 
 # fix for ACL4SSR UnBan
-DOMAIN,dl.google.com
-DOMAIN-SUFFIX,googletraveladservices.com
-DOAMIN-SUFFIX,gstatic.com
+# DOMAIN,dl.google.com
+# DOMAIN-SUFFIX,googletraveladservices.com
+# DOAMIN-SUFFIX,gstatic.com
 
 # Apple Music 个人上传音乐
 DOMAIN-SUFFIX,blobstore.apple.com
