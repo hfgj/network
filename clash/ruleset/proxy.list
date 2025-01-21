@@ -2,8 +2,8 @@
 DOMAIN-SUFFIX,ultramobile.com
 IP-CIDR,208.54.0.0/16,no-resolve
 
-# fix for ACL4SSR UnBan
-# DOMAIN,dl.google.com
+# fix
+DOMAIN,dl.google.com
 # DOMAIN-SUFFIX,googletraveladservices.com
 # DOAMIN-SUFFIX,gstatic.com
 
