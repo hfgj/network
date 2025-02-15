@@ -1,6 +1,6 @@
 # Ultra Mobile
-# DOMAIN-SUFFIX,ultramobile.com
-# IP-CIDR,208.54.0.0/16,no-resolve
+DOMAIN-SUFFIX,ultramobile.com
+IP-CIDR,208.54.0.0/16,no-resolve
 
 # Firefox
 # DOMAIN-SUFFIX,addons.mozilla.org
