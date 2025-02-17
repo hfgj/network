@@ -21,4 +21,4 @@
 ||wwis-dubc1-vip60.adobe.com^
 
 # X-Mind
-www.xmind.net
+||www.xmind.net^
