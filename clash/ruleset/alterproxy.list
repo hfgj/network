@@ -2,3 +2,8 @@
 
 # Firefox
 DOMAIN-SUFFIX,addons.mozilla.org
+
+# Ultra Mobile
+DOMAIN-SUFFIX,ultramobile.com
+# DOMAIN-SUFFIX,epc.mnc260.mcc310.pub.3gppnetwork.org
+IP-CIDR,208.54.0.0/16,no-resolve
