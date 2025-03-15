@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,libreoffice.org
 DOMAIN-SUFFIX,codecguide.com
 DOMAIN-SUFFIX,calibre-ebook.com
 DOMAIN-SUFFIX,flaticon.com
+DOMAIN-SUFFIX,fastly.jsdelivr.net
 
 # Crack
 DOMAIN-SUFFIX,repack.me
