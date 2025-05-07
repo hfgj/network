@@ -1,7 +1,10 @@
+# t-Mobile
+DOMAIN-SUFFIX,t-mobile.com
+
 # Ultra Mobile
-# DOMAIN-SUFFIX,ultramobile.com
+DOMAIN-SUFFIX,ultramobile.com
 # DOMAIN-SUFFIX,epc.mnc260.mcc310.pub.3gppnetwork.org
-# IP-CIDR,208.54.0.0/16,no-resolve
+IP-CIDR,208.54.0.0/16,no-resolve
 
 # Firefox
 # DOMAIN-SUFFIX,addons.mozilla.org
