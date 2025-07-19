@@ -19,8 +19,10 @@ DOMAIN-SUFFIX,stream.nbc.com
 DOMAIN-SUFFIX,peacocktv.com
 DOMAIN-SUFFIX,www.peacocktv.com
 DOMAIN-SUFFIX,api.peacocktv.com
-DOMAIN-SUFFIX,vod-player.nbcuni.com
-DOMAIN-SUFFIX,video-api.nbcuni.com
+# DOMAIN-SUFFIX,vod-player.nbcuni.com
+# DOMAIN-SUFFIX,video-api.nbcuni.com
+DOMAIN-SUFFIX,nbcuni.com
+DOMAIN-SUFFIX,nbc.co
 
 ## 广告和验证相关
 DOMAIN-SUFFIX,theplatform.com
