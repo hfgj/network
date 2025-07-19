@@ -8,5 +8,32 @@
 
 # Firefox
 # DOMAIN-SUFFIX,addons.mozilla.org
-DOMAIN-SUFFIX,nbc.com
-DOMAIN-SUFFIX,nbcuni.com
+
+
+# nbc
+## 主站、播放服务和授权验证服务器
+nbc.com
+www.nbc.com
+api.nbc.com
+stream.nbc.com
+peacocktv.com
+www.peacocktv.com
+api.peacocktv.com
+vod-player.nbcuni.com
+video-api.nbcuni.com
+
+## 广告和验证相关
+theplatform.com
+player.theplatform.com
+secure-player.theplatform.com
+admanager.theplatform.com
+sni.theplatform.com
+s.yimg.com (广告追踪，部分播放依赖)
+
+## CDN 和媒体资源
+nbcuni-vod.akamaized.net
+nbcuni-vh.akamaihd.net
+nbc-ll.aiv-cdn.net
+edgesuite.net
+llnwd.net
+cloudfront.net
