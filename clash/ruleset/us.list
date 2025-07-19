@@ -12,28 +12,28 @@
 
 # nbc
 ## 主站、播放服务和授权验证服务器
-DOMAIN,nbc.com
-DOMAIN,www.nbc.com
-DOMAIN,api.nbc.com
-DOMAIN,stream.nbc.com
-DOMAIN,peacocktv.com
-DOMAIN,www.peacocktv.com
-DOMAIN,api.peacocktv.com
-DOMAIN,vod-player.nbcuni.com
-DOMAIN,video-api.nbcuni.com
+DOMAIN-SUFFIX,nbc.com
+DOMAIN-SUFFIX,www.nbc.com
+DOMAIN-SUFFIX,api.nbc.com
+DOMAIN-SUFFIX,stream.nbc.com
+DOMAIN-SUFFIX,peacocktv.com
+DOMAIN-SUFFIX,www.peacocktv.com
+DOMAIN-SUFFIX,api.peacocktv.com
+DOMAIN-SUFFIX,vod-player.nbcuni.com
+DOMAIN-SUFFIX,video-api.nbcuni.com
 
 ## 广告和验证相关
-DOMAIN,theplatform.com
-DOMAIN,player.theplatform.com
-DOMAIN,secure-player.theplatform.com
-DOMAIN,admanager.theplatform.com
-DOMAIN,sni.theplatform.com
-DOMAIN,s.yimg.com
+DOMAIN-SUFFIX,theplatform.com
+DOMAIN-SUFFIX,player.theplatform.com
+DOMAIN-SUFFIX,secure-player.theplatform.com
+DOMAIN-SUFFIX,admanager.theplatform.com
+DOMAIN-SUFFIX,sni.theplatform.com
+DOMAIN-SUFFIX,s.yimg.com
 
 ## CDN 和媒体资源
-DOMAIN,nbcuni-vod.akamaized.net
-DOMAIN,nbcuni-vh.akamaihd.net
-DOMAIN,nbc-ll.aiv-cdn.net
-DOMAIN,edgesuite.net
-DOMAIN,llnwd.net
-DOMAIN,cloudfront.net
+DOMAIN-SUFFIX,nbcuni-vod.akamaized.net
+DOMAIN-SUFFIX,nbcuni-vh.akamaihd.net
+DOMAIN-SUFFIX,nbc-ll.aiv-cdn.net
+DOMAIN-SUFFIX,edgesuite.net
+DOMAIN-SUFFIX,llnwd.net
+DOMAIN-SUFFIX,cloudfront.net
