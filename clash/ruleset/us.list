@@ -28,7 +28,7 @@ DOMAIN,player.theplatform.com
 DOMAIN,secure-player.theplatform.com
 DOMAIN,admanager.theplatform.com
 DOMAIN,sni.theplatform.com
-DOMAIN,s.yimg.com (广告追踪，部分播放依赖)
+DOMAIN,s.yimg.com
 
 ## CDN 和媒体资源
 DOMAIN,nbcuni-vod.akamaized.net
