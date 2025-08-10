@@ -1,0 +1,16 @@
+# 英国 SIM 卡 Wi-Fi Calling 配置规则
+# 沃达丰
+DOMAIN-SUFFIX,entsrv-uk.vodafone.com
+DOMAIN-SUFFIX,epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
+DOMAIN-SUFFIX,ss.epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
+DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc015.mcc234.pub.3gppnetwork.org
+DOMAIN-SUFFIX,vuk-gto.prod.ondemandconnectivity.com
+IP-CIDR,88.82.0.0/19,no-resolve
+
+# CMLink UK EE
+IP-CIDR,46.68.0.0/17,no-resolve
+
+# Giffgaff
+DOMAIN-SUFFIX,giffgaff.com
+DOMAIN-SUFFIX,epdg.epc.mnc010.mcc234.pub.3gppnetwork.org
+IP-CIDR,87.194.0.0/16,no-resolve
