@@ -30,8 +30,3 @@ PROCESS-NAME,wemeetapp.exe
 PROCESS-NAME,SunloginClient.exe
 PROCESS-NAME,sunlogin_guard.exe
 PROCESS-NAME,DingTalk.exe
-
-# ultra mobile
-DOMAIN-SUFFIX,t-mobile.com
-DOMAIN-SUFFIX,ultramobile.com
-IP-CIDR,208.54.0.0/16,no-resolve
