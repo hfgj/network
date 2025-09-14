@@ -38,6 +38,9 @@ DOMAIN-SUFFIX,nbcuni.com
 # DOMAIN-SUFFIX,video-api.nbcuni.com
 DOMAIN-SUFFIX,nbc.co
 
+# stream
+DOMAIN-SUFFIX,tubi.tv
+
 ## 广告和验证相关
 DOMAIN-SUFFIX,theplatform.com
 # DOMAIN-SUFFIX,player.theplatform.com
