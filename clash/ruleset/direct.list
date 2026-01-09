@@ -3,6 +3,9 @@ DOMAIN,aod.itunes.apple.com
 DOMAIN,music.apple.cn
 DOMAIN,music.apple.com
 
+# PT
+DOMAIN-SUFFIX,pterclub.net
+
 # 
 DOMAIN-SUFFIX,warehouse.parkson-market.org
 DOMAIN-SUFFIX,link.nobodys.uk
