@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,api.mac-stats.com
 DOMAIN-REGEX,^tagss\d+\.pro$
 DOMAIN-SUFFIX,tagxx.vip
 DOMAIN-SUFFIX,tagweb.vip
+DOMAIN-SUFFIX,challenges.cloudflare.com
 
 # Crack
 DOMAIN-SUFFIX,repack.me
